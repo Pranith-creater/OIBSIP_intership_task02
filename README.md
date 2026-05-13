@@ -10,7 +10,7 @@ A modern, responsive, and professional portfolio website showcasing my projects,
 - **Responsive**: Works seamlessly on mobile, tablet, and desktop
 - **Dark/Light Mode**: Toggle between themes with preference storage
 - **Blog Section**: Share your thoughts and insights
-- **Contact Form**: Get in touch with integrated backend
+- **Contact Form**: Get in touch with the integrated backend
 - **Smooth Animations**: Scroll reveals, transitions, and interactive elements
 - **Terminal Effect**: Eye-catching hero section with typewriter animation
 - **SEO Optimized**: Meta tags and semantic HTML for better search visibility
@@ -280,7 +280,7 @@ I'm MODALLA PRANITH REDDY, a passionate B.Tech student and Full Stack Web Develo
 - **Email**: pranithmodalla@gmail.com
 - **GitHub**: https://github.com/Pranith-creater
 - **LinkedIn**: https://www.linkedin.com/in/pranith-modalla-771951325
-- **Portfolio**: https://your-portfolio-url.com
+- **Portfolio**: https://future-fs-01-mu-five.vercel.app/
 
 ---
 
