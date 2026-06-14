@@ -555,6 +555,9 @@ img {
 .bg-gradient-2 { background: linear-gradient(135deg, #064e3b, #10b981); }
 .bg-gradient-3 { background: linear-gradient(135deg, #4c1d95, #8b5cf6); }
 .bg-gradient-4 { background: linear-gradient(135deg, #7c2d12, #f97316); }
+.bg-gradient-5 { background: linear-gradient(135deg, #0d7377, #ec4899); }
+.bg-gradient-6 { background: linear-gradient(135deg, #5a189a, #3a86ff); }
+.bg-gradient-7 { background: linear-gradient(135deg, #d62828, #f77f00); }
 
 .project-index {
     position: absolute;
